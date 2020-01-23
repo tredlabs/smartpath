@@ -1,0 +1,227 @@
+[04-Apr-2018 06:17:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host ''localhost'' (0) in /home4/dert1/public_html/streamlineja.com/streamline/php/db.php on line 9
+[09-Apr-2018 15:35:25 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 2
+[09-Apr-2018 15:35:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php:2) in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 3
+[09-Apr-2018 15:37:11 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 2
+[09-Apr-2018 15:37:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php:2) in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 3
+[09-Apr-2018 15:37:12 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 2
+[09-Apr-2018 15:37:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php:2) in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 3
+[16-May-2018 10:03:04 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 2
+[16-May-2018 10:03:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php:2) in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 3
+[16-May-2018 10:03:06 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 2
+[16-May-2018 10:03:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php:2) in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 3
+[16-May-2018 10:11:30 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 2
+[16-May-2018 10:11:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php:2) in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 3
+[16-May-2018 11:38:21 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 2
+[16-May-2018 11:38:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php:2) in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/logout.php on line 3
+[17-May-2018 17:01:33 America/Chicago] PHP Warning:  include(lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:01:33 America/Chicago] PHP Warning:  include(lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:01:33 America/Chicago] PHP Warning:  include(): Failed opening 'lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:02:59 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:02:59 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:02:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:03:00 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:03:00 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:03:00 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:03:27 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:03:27 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:03:27 America/Chicago] PHP Warning:  include(): Failed opening './lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:01 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:01 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:01 America/Chicago] PHP Warning:  include(): Failed opening './lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:03 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:03 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:03 America/Chicago] PHP Warning:  include(): Failed opening './lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:04 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:04 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:04 America/Chicago] PHP Warning:  include(): Failed opening './lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:47 America/Chicago] PHP Warning:  include(..\lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:47 America/Chicago] PHP Warning:  include(..\lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:47 America/Chicago] PHP Warning:  include(): Failed opening '..\lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:48 America/Chicago] PHP Warning:  include(..\lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:48 America/Chicago] PHP Warning:  include(..\lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:05:48 America/Chicago] PHP Warning:  include(): Failed opening '..\lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:06:03 America/Chicago] PHP Warning:  include(.\lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:06:03 America/Chicago] PHP Warning:  include(.\lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:06:03 America/Chicago] PHP Warning:  include(): Failed opening '.\lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:07:21 America/Chicago] PHP Warning:  require_once(classes/Session_Manager.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/lnav.php on line 11
+[17-May-2018 17:07:21 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'classes/Session_Manager.php' (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/lnav.php on line 11
+[17-May-2018 17:07:22 America/Chicago] PHP Warning:  require_once(classes/Session_Manager.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/lnav.php on line 11
+[17-May-2018 17:07:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'classes/Session_Manager.php' (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/lnav.php on line 11
+[17-May-2018 17:07:53 America/Chicago] PHP Warning:  include(lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:07:53 America/Chicago] PHP Warning:  include(lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:07:53 America/Chicago] PHP Warning:  include(): Failed opening 'lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:08:16 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:08:16 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:08:16 America/Chicago] PHP Warning:  include(): Failed opening './lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:08:17 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:08:17 America/Chicago] PHP Warning:  include(./lnav.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:08:17 America/Chicago] PHP Warning:  include(): Failed opening './lnav.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/adminpanel/panel.php on line 2
+[17-May-2018 17:08:32 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:08:32 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:08:32 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:09:17 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:09:17 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:09:17 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:09:18 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:09:18 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:09:18 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:09:59 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:09:59 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:09:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:10:00 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:10:00 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[17-May-2018 17:10:00 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php55/lib/php') in /home4/dert1/creativeunit.tredlabsja.com/classes/Session_Manager.php on line 2
+[15-Jun-2019 07:39:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/smartpathjm.com/adminpanel/login.php:25) in /home4/dert1/smartpathjm.com/adminpanel/login.php on line 23
+[16-Jun-2019 16:08:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/smartpathjm.com/adminpanel/login.php:25) in /home4/dert1/smartpathjm.com/adminpanel/login.php on line 23
+[18-Jun-2019 11:22:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/smartpathjm.com/adminpanel/login.php:25) in /home4/dert1/smartpathjm.com/adminpanel/login.php on line 23
+[19-Jun-2019 00:05:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/dert1/smartpathjm.com/adminpanel/login.php:25) in /home4/dert1/smartpathjm.com/adminpanel/login.php on line 23
+[20-Jun-2019 05:01:47 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[20-Jun-2019 05:01:47 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[20-Jun-2019 05:01:55 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[20-Jun-2019 05:01:55 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[12-Oct-2019 18:43:42 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[12-Oct-2019 18:43:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[12-Oct-2019 18:43:58 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[12-Oct-2019 18:43:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[12-Oct-2019 18:44:16 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[12-Oct-2019 18:44:16 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-Oct-2019 13:58:01 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[13-Oct-2019 13:58:01 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:19:34 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:19:34 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:19:37 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:19:37 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:19:41 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:19:41 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:30:01 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:30:01 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:35:37 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:35:37 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:35:40 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:35:40 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:36:09 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 00:36:09 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 01:05:49 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[14-Oct-2019 01:05:49 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Dec-2019 18:07:53 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Dec-2019 18:07:53 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
