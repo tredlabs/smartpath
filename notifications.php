@@ -1,0 +1,1 @@
+<button onclick="window.location='process-notifications.php'">Click me</button>

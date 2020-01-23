@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+        <link rel="shortcut icon" href="assets/images/favicon_1.ico">
+
+        <title>Purchase Order</title>
+
+        <link href="../plugins/switchery/switchery.min.css" rel="stylesheet" />
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="assets/css/core.css" rel="stylesheet" type="text/css">
+        <link href="assets/css/icons.css" rel="stylesheet" type="text/css">
+        <link href="assets/css/components.css" rel="stylesheet" type="text/css">
+        <link href="assets/css/pages.css" rel="stylesheet" type="text/css">
+        <link href="assets/css/menu.css" rel="stylesheet" type="text/css">
+        <link href="assets/css/responsive.css" rel="stylesheet" type="text/css">
+
+        <script src="assets/js/modernizr.min.js"></script>
+      
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+        	
+    </head>
+<script type="text/javascript">
+var count = 0;
+$(function(){
+	$('#add_field').click(function(){
+		count += 1;
+		$('#addrow').append(
+				'' 
+				+ '<input id="field_' + count + '" name="item[]' + '" type="text" />' 
+				+ '<input id="field_' + count + '" name="desc[]' + '" type="text" />'
+				+ '<input id="field_' + count + '" name="qty[]' + '" type="double" />'
+				+ '<input id="field_' + count + '" name="rate[]' + '" type="double" />'
+				+ '<input id="field_' + count + '" name="amount[]' + '" type="double" />');
+	
+	});
+});
+</script> 
+
+
+                    <div class="container">
+
+                        <!-- Page-Title -->
+                   
+  <div id="live-data">
+                     
+                        	<div class="col-sm-12">
+                        	
+                        		<div class="card-box">
+                        			<h3 align="right">Purchase Order</h3>
+                        	
+                        		<img src="assets/images/streamline.jpg" width="20%"alt="logo" >  
+                        			
+                        		<div>  
+                        			
+                        	   <p>9 Moylnes Road Kingston 10 <br>Tel: (876) 908-4806 <br>Fax#: (876) 908-4944
+                               </p>	
+                        			</div>
+                                        <form action="insert_purchase.php" method="post">
+                        			<div align="right">
+                        		
+                        			
+                        			<table border="2">
+                        				<th> Date</th>
+                        				<th> P.O. No.</th>
+                        				<tr>
+                        					<td><input type="date" name="date" id="date"></td>
+                        					<td>
+                        						<input type="text" name="partno" id="partno" placeholder="Part #">
+                        						
+                        					</td>
+                        					
+                        				</tr>
+                        			 	</table>
+
+                        			</div>
+
+                        			<br>
+                        				<br>
+	                                          
+	                                            	<table width="100%">
+	                                            		
+	                                            		<th>Vendor</th>
+	                                            		<th>Ship To</th>
+	                                            		
+	                                            		<tr>
+	                                            			
+	                                            			   <td>
+	                                            			
+	                                            			   	  
+	                                            	<textarea class="form-control" name="vendoradd" id="vendoradd" rows="5">
+	                                            		
+	                                            	</textarea>
+	                                            	  
+	                                                  </td>
+	                                                  
+	                                              
+	                                          
+	                                                			   <td>
+	                                                			   	 	
+	                                            	<textarea class="form-control" name="shiptoadd" id="shiptoadd" rows="5">
+	                                            		
+	                                            	</textarea>
+	                                            	
+	                                                  </td>
+	                                                
+	                                                     </tr>   
+	                                          
+	                                              </table>
+	                                                 <br/>
+	                                              <br/>   <br/>
+	                                              
+	                                              <div align="right">
+                        			
+                        			<table border="2">
+                        				<th> Other</th>
+                        			
+                        				<tr>
+                        			
+                        					<td><input type="text" name="other"></td>
+                        					
+                        				</tr>
+                        				</table>
+                        			</div>
+	                                             <h4>Purchase Order Listing  	</h4>
+	                                             	<br/>
+	                                             	
+	                                          
+	                                            	
+	                                            	
+	                                            	
+	                                            		
+                        			<table id="addPurchase"border="2">
+                        				<th> Item</th>
+                        				<th> Description</th>
+                        				<th> Qty</th>
+                        				<th> Rate</th>
+                        				<th> Amount</th>
+                        				<tr>
+                        					
+                        					  <div id="addrow">
+	                               
+	                                              	
+	                                 
+	                                             
+	                                              	</div>
+                        				</tr>
+                        			
+                        				</table>
+          	<input type="submit" name="btnSubmit"  value="Submit"/>
+                        				
+                      <button type="button" id="add_field">Add Item</button>   
+                        			</div>
+	                                         
+	                                            	
+	                                    	
+	                                            	
+	                                            	
+	                                            	
+	                                            	
+	                             
+	                                	  
+	                                	      </form>
+	                                            	</div>
+	                                            	</div>
+	                                            	
+	                                            	</div>
+	                                            	</div>
+	                                            
+    
+        <!-- END wrapper -->
+
+
+    
+        <script>
+            var resizefunc = [];
+        </script>
+
+        <!-- jQuery  -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/detect.js"></script>
+        <script src="assets/js/fastclick.js"></script>
+        <script src="assets/js/jquery.slimscroll.js"></script>
+        <script src="assets/js/jquery.blockUI.js"></script>
+        <script src="assets/js/waves.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/jquery.nicescroll.js"></script>
+        <script src="assets/js/jquery.scrollTo.min.js"></script>
+        <script src="../plugins/switchery/switchery.min.js"></script>
+
+        <script src="assets/js/jquery.core.js"></script>
+        <script src="assets/js/jquery.app.js"></script>
+
+
+</html>
